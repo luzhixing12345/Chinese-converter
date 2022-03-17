@@ -9,7 +9,7 @@ python converter.py FILENAME
 python converter.py FILENAME --op
 ```
 
-## [EXE可执行文件下载],无需python环境
+## [EXE可执行文件下载](https://github.com/luzhixing12345/Chinese-converter/releases/download/v0.0.1/convert.exe),无需python环境
 使用方法:
 ```
 convert.exe FILENAME
